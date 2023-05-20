@@ -1,0 +1,5 @@
+Thu May 18 08:14:46 2023 - Se agregó usuario a la tabla USERS Jose
+Thu May 18 08:14:51 2023 - Loging de Jose
+Fri May 19 17:52:57 2023 - Loging de Jose
+Fri May 19 17:53:14 2023 - Agregar Orden 7895 - celular - $350 - $350
+Fri May 19 17:53:18 2023 - Logout de Jose

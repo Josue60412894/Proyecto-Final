@@ -1,0 +1,7 @@
+Fri May 19 16:23:27 2023 - Se agregó usuario a la tabla USERS Roberto
+Fri May 19 16:23:34 2023 - Loging de Roberto
+Fri May 19 16:23:44 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:31:03 2023 - Loging de Roberto
+Fri May 19 16:32:15 2023 - Loging de Roberto
+Fri May 19 16:32:18 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:33:26 2023 -  Se mostraron los IDs de todas las ordenes

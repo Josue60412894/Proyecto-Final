@@ -1,0 +1,102 @@
+Wed May 17 20:19:56 2023 - Se agregó usuario a la tabla USERS Josue
+Wed May 17 20:20:08 2023 - Loging de Josue
+Wed May 17 20:26:55 2023 - Loging de Josue
+Wed May 17 20:37:09 2023 - Loging de Josue
+Wed May 17 20:39:08 2023 - Loging de Josue
+Wed May 17 20:43:08 2023 - Loging de Josue
+Wed May 17 20:43:27 2023 - Loging de Josue
+Wed May 17 20:47:48 2023 - Loging de Josue
+Wed May 17 20:51:58 2023 - Se agregó usuario a la tabla USERS Josue
+Wed May 17 20:52:15 2023 - Loging de Josue
+Wed May 17 20:53:27 2023 - Loging de Josue
+Wed May 17 20:54:45 2023 - Loging de Josue
+Wed May 17 20:55:53 2023 - Loging de Josue
+Wed May 17 21:02:42 2023 - Loging de Josue
+Wed May 17 21:07:59 2023 - Loging de Josue
+Wed May 17 21:11:50 2023 - Loging de Josue
+Wed May 17 21:13:11 2023 - Loging de Josue
+Wed May 17 21:14:59 2023 - Loging de Josue
+Wed May 17 21:21:43 2023 - Loging de Josue
+Wed May 17 21:27:44 2023 - Loging de Josue
+Wed May 17 21:28:14 2023 - Loging de Josue
+Wed May 17 22:01:17 2023 - Loging de Josue
+Wed May 17 22:08:16 2023 - Loging de Josue
+Wed May 17 22:09:21 2023 - Se agregó usuario a la tabla USERS Josue
+Wed May 17 22:09:30 2023 - Loging de Josue
+Wed May 17 22:10:41 2023 - Loging de Josue
+Wed May 17 23:39:38 2023 - Loging de Josue
+Wed May 17 23:39:53 2023 - Loging de Josue
+Wed May 17 23:42:26 2023 - Loging de Josue
+Wed May 17 23:43:23 2023 - Loging de Josue
+Wed May 17 23:44:44 2023 - Loging de Josue
+Wed May 17 23:45:49 2023 - Loging de Josue
+Wed May 17 23:46:28 2023 - Loging de Josue
+Wed May 17 23:49:44 2023 - Loging de Josue
+Wed May 17 23:52:23 2023 - Loging de Josue
+Wed May 17 23:53:40 2023 - Loging de Josue
+Wed May 17 23:54:34 2023 - Loging de Josue
+Wed May 17 23:56:42 2023 - Loging de Josue
+Thu May 18 00:05:58 2023 - Loging de Josue
+Thu May 18 00:06:50 2023 - Loging de Josue
+Thu May 18 00:19:55 2023 - Loging de Josue
+Thu May 18 00:37:17 2023 - Loging de Josue
+Thu May 18 00:40:23 2023 - Loging de Josue
+Thu May 18 00:50:24 2023 - Loging de Josue
+Thu May 18 00:53:21 2023 - Loging de Josue
+Thu May 18 00:56:13 2023 - Loging de Josue
+Thu May 18 00:56:57 2023 - Loging de Josue
+Thu May 18 00:58:20 2023 - Loging de Josue
+Thu May 18 01:00:05 2023 - Loging de Josue
+Thu May 18 01:01:06 2023 - Loging de Josue
+Thu May 18 01:08:51 2023 - Loging de Josue
+Thu May 18 01:12:06 2023 - Loging de Josue
+Thu May 18 08:12:42 2023 - Loging de Josue
+Thu May 18 08:27:24 2023 - Loging de Josue
+Thu May 18 08:29:08 2023 - Loging de Josue
+Thu May 18 08:29:15 2023 - Logout de Josue
+Thu May 18 22:27:05 2023 - Loging de Josue
+Fri May 19 15:52:24 2023 - Loging de Josue
+Fri May 19 16:01:20 2023 - Loging de Josue
+Fri May 19 16:01:43 2023 - Loging de Josue
+Fri May 19 16:02:26 2023 - Agregar Orden 123123 - hotel - 1500000 - 1500000
+Fri May 19 16:02:47 2023 - Logout de Josue
+Fri May 19 16:17:44 2023 - Loging de Josue
+Fri May 19 16:18:18 2023 - Agregar Orden 4567 - Ferrari F1 - 450000 - 450000
+Fri May 19 16:18:27 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:18:39 2023 -  Se mostraron los detalles de la orden 4567
+Fri May 19 16:19:08 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:19:13 2023 -  Se mostraron los detalles de la orden 4567
+Fri May 19 16:19:48 2023 -  Se mostraron los detalles de la orden 4567
+Fri May 19 16:20:02 2023 -  Se elimino la orden 4567
+Fri May 19 16:20:06 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:20:35 2023 - Logout de Josue
+Fri May 19 16:21:50 2023 - Loging de Josue
+Fri May 19 16:21:58 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:22:05 2023 -  Se mostraron los detalles de la orden 666
+Fri May 19 16:33:06 2023 - Loging de Josue
+Fri May 19 16:33:22 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:56:01 2023 - Loging de Josue
+Fri May 19 16:56:06 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 16:56:15 2023 -  Se elimino la orden 343
+Fri May 19 16:56:23 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:00:59 2023 - Loging de Josue
+Fri May 19 17:11:32 2023 - Loging de Josue
+Fri May 19 17:11:35 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:11:37 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:11:45 2023 -  Se elimino la orden 666
+Fri May 19 17:11:47 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:12:06 2023 - Agregar Orden 888 - mansion - 450000 - 450000
+Fri May 19 17:12:11 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:12:15 2023 -  Se mostraron los detalles de la orden 888
+Fri May 19 17:15:08 2023 - Loging de Josue
+Fri May 19 17:15:11 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:15:12 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 17:15:19 2023 -  Se elimino la orden 888
+Fri May 19 17:15:32 2023 - Agregar Orden 45 - bote - 45900 - 45900
+Fri May 19 19:12:26 2023 - Loging de Josue
+Fri May 19 19:13:25 2023 - Logout de Josue
+Fri May 19 19:13:30 2023 - Loging de Josue
+Fri May 19 20:31:59 2023 - Loging de Josue
+Fri May 19 20:32:12 2023 -  Se mostraron los IDs de todas las ordenes
+Fri May 19 20:32:44 2023 - Logout de Josue
+Fri May 19 20:44:11 2023 - Loging de Josue

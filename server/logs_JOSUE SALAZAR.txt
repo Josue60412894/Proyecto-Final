@@ -1,0 +1,3 @@
+Mon May  8 18:33:21 2023 - Se agregó usuario a la tabla USERS JOSUE SALAZAR
+Mon May  8 18:35:26 2023 - Loging de JOSUE SALAZAR
+Mon May  8 18:57:53 2023 - Loging de JOSUE SALAZAR

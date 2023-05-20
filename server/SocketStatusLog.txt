@@ -1,0 +1,686 @@
+Wed May  3 14:21:10 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 14:21:10 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 14:21:47 2023 - 1,Juan,Perez,end
+Wed May  3 14:21:47 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 15:07:54 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 15:07:54 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 15:08:06 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 15:08:06 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 15:17:00 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 15:17:00 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:45:10 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 16:45:10 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:46:44 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 16:46:44 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:53:39 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 16:53:39 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:54:45 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 16:54:45 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:58:13 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 16:58:13 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 16:58:20 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 16:58:20 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:03:30 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:03:30 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:03:50 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:03:50 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:09:06 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:09:06 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:09:19 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:09:19 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:10:37 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:10:37 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:14:19 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:14:19 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:14:28 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:14:28 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:14:31 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:14:31 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:24:47 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:24:47 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:25:05 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:25:05 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:25:19 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 17:25:19 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:40:33 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:40:33 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:40:57 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:40:57 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:51:22 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 17:51:22 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 17:51:31 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 17:51:31 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:53:01 2023 - 2,Juan Perez,ABCD123
+Wed May  3 17:53:01 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 17:53:38 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 17:53:38 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:30:38 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:30:38 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:30:45 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:30:45 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:30:52 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:30:52 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:32:22 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:32:22 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:32:26 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:33:11 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:33:11 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:33:14 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:33:15 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:33:19 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:33:20 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:33:22 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:33:22 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:38:06 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:38:06 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:38:10 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:38:10 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:41:43 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:41:43 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:47:41 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:47:41 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:47:44 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 22:47:44 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 22:53:13 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:53:13 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:53:35 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:53:35 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:53:56 2023 - SocketStatusLog.txt Could not bind to port.
+Exiting.
+
+Wed May  3 22:54:05 2023 - SocketStatusLog.txt Could not bind to port.
+Exiting.
+
+Wed May  3 22:55:15 2023 - SocketStatusLog.txt Could not bind to port.
+Exiting.
+
+Wed May  3 22:57:42 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:57:42 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 22:58:39 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 22:58:39 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:01:15 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:01:15 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:04:43 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:04:43 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:05:41 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:05:41 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:05:50 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:05:50 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:11:52 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:11:52 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:12:13 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:12:13 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:12:35 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:12:35 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:13:07 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:13:07 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:14:34 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:14:34 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:14:43 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:14:43 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:15:13 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:15:13 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:15:38 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:15:38 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:15:51 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:15:51 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:25:44 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:25:44 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:25:51 2023 - 3,Juan Perez
+Wed May  3 23:25:51 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:50:54 2023 - Server is running: 0.0.0.0:6336
+Wed May  3 23:50:54 2023 - Listening connection: 0.0.0.0:6336
+Wed May  3 23:51:25 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:51:25 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:51:35 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:51:35 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:51:53 2023 - 3,Juan Perez
+Wed May  3 23:51:53 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:52:55 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Wed May  3 23:52:55 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:52:58 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:52:58 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:52:59 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:52:59 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:00 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:00 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:01 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:01 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:02 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:02 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:02 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:02 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:03 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:03 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:03 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:03 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:04 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:04 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:05 2023 - 2,Juan Perez,ABCD1234
+Wed May  3 23:53:05 2023 - Listening connection: 127.0.0.1:6336
+Wed May  3 23:53:07 2023 - 3,Juan Perez
+Wed May  3 23:53:07 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:00:20 2023 - Server is running: 0.0.0.0:6336
+Thu May  4 00:00:20 2023 - Listening connection: 0.0.0.0:6336
+Thu May  4 00:00:26 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 00:00:26 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:00:27 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:00:27 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:00:29 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:00:29 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:00:31 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:00:31 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:00:35 2023 - 3,Juan Perez
+Thu May  4 00:00:36 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:29 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:29 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:32 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:32 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:32 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:32 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:33 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:33 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:34 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:34 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:35 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:35 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:35 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:35 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:36 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:36 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:37 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 00:02:37 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:41 2023 - 3,Juan Perez
+Thu May  4 00:02:41 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:43 2023 - 3,Juan Perez
+Thu May  4 00:02:43 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:44 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:44 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:44 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:44 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:45 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:46 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:46 2023 - 3,Juan Perez
+Thu May  4 00:02:46 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:47 2023 - 3,Juan Perez
+Thu May  4 00:02:47 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:47 2023 - 3,Juan Perez
+Thu May  4 00:02:47 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:48 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:48 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:49 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:49 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:49 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:49 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:02:50 2023 - 2,Juan Perez,ABCD1235
+Thu May  4 00:02:50 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:04:46 2023 - Server is running: 0.0.0.0:6336
+Thu May  4 00:04:46 2023 - Listening connection: 0.0.0.0:6336
+Thu May  4 00:05:04 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 00:05:05 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:09 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 00:05:09 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:11 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 00:05:11 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:15 2023 - 1,Robert Gomez,1234568,+506-7857567,454573
+Thu May  4 00:05:16 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:17 2023 - 1,Robert Gomez,1234568,+506-7857567,454573
+Thu May  4 00:05:17 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:22 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:05:22 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:24 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:05:24 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:29 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:05:29 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:05:31 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:05:31 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:06:00 2023 - 2,Robert Gomez,1234568
+Thu May  4 00:06:00 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:06:01 2023 - 2,Robert Gomez,1234568
+Thu May  4 00:06:01 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:06:18 2023 - 3,Robert Gomez
+Thu May  4 00:06:18 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:06:20 2023 - 3,Robert Gomez
+Thu May  4 00:06:20 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:06:24 2023 - 3,Juan Perez
+Thu May  4 00:06:24 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:11:06 2023 - Server is running: 0.0.0.0:6336
+Thu May  4 00:11:06 2023 - Listening connection: 0.0.0.0:6336
+Thu May  4 00:11:23 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 00:11:23 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:11:33 2023 - 2,Robert Gomez,1234568
+Thu May  4 00:11:33 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:15:27 2023 - Server is running: 0.0.0.0:6336
+Thu May  4 00:15:27 2023 - Listening connection: 0.0.0.0:6336
+Thu May  4 00:15:34 2023 - 3,Juan Perez
+Thu May  4 00:15:34 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 00:15:37 2023 - 3,Robert Gomez
+Thu May  4 00:15:37 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:03:00 2023 - Server is running: 0.0.0.0:6336
+Thu May  4 08:03:00 2023 - Listening connection: 0.0.0.0:6336
+Thu May  4 08:03:40 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Thu May  4 08:03:41 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:03:43 2023 - 2,Juan Perez,ABCD1234
+Thu May  4 08:03:43 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:03:48 2023 - 1,Robert Gomez,1234568,+506-7857567,454573
+Thu May  4 08:03:48 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:03:50 2023 - 2,Robert Gomez,1234568
+Thu May  4 08:03:50 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:04:05 2023 - 3,Juan Perez
+Thu May  4 08:04:06 2023 - Listening connection: 127.0.0.1:6336
+Thu May  4 08:04:09 2023 - 3,Robert Gomez
+Thu May  4 08:04:09 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:06:52 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:06:52 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:06:58 2023 - 3,Juan Perez
+Sat May  6 10:06:58 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:07:01 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:07:01 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:43 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:21:43 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:44 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:21:44 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:45 2023 - 3,Juan Perez
+Sat May  6 10:21:45 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:45 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:21:45 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:47 2023 - 3,Juan Perez
+Sat May  6 10:21:47 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:47 2023 - 3,Juan Perez
+Sat May  6 10:21:47 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:48 2023 - 3,Juan Perez
+Sat May  6 10:21:48 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:49 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:21:49 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:51 2023 - 3,Juan Perez
+Sat May  6 10:21:51 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:51 2023 - 3,Juan Perez
+Sat May  6 10:21:51 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:52 2023 - 3,Juan Perez
+Sat May  6 10:21:52 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:52 2023 - 3,Juan Perez
+Sat May  6 10:21:52 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:21:53 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sat May  6 10:21:53 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:22:18 2023 - 3,Juan Perez
+Sat May  6 10:22:18 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:22:35 2023 - 2,Juan Perez,ABCD1234
+Sat May  6 10:22:35 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:22:42 2023 - 2,Juan Perez,ABCD1234
+Sat May  6 10:22:42 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:22:43 2023 - 3,Juan Perez
+Sat May  6 10:22:43 2023 - Listening connection: 127.0.0.1:6336
+Sat May  6 10:22:43 2023 - 3,Juan Perez
+Sat May  6 10:22:43 2023 - Listening connection: 127.0.0.1:6336
+Sun May  7 12:46:55 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Sun May  7 12:46:55 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 16:59:41 2023 - 1,Juan Perez,ABCD1234,+506-2262-3337,11589653
+Mon May  8 16:59:41 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:17:56 2023 - 2,LoginName,LoginPassword
+Mon May  8 17:17:56 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:19:27 2023 - 2,[Juan Perez,ABCD1234
+Mon May  8 17:19:27 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:19:48 2023 - 2,Juan Perez,ABCD1234
+Mon May  8 17:19:48 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:35:45 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 17:35:45 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 17:36:00 2023 - 2,Juan Perez\,s
+Mon May  8 17:36:00 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:36:57 2023 - 2,Juan Perez,ABCDE1234
+Mon May  8 17:36:57 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:37:22 2023 - 2,Juan Perez,ABCD1234
+Mon May  8 17:37:22 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:38:58 2023 - 2,Juan Perez,ABCD1234
+Mon May  8 17:38:58 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:41:11 2023 - 2,Juan Perez,ABCD1234
+Mon May  8 17:41:11 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:43:09 2023 - 2,Juan Perez,ABCD1234
+Mon May  8 17:43:09 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 17:52:03 2023 - 1,Josue,ABCD1234,22424465,2312312
+Mon May  8 17:52:03 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 18:14:10 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:14:10 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:14:49 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:14:49 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:15:23 2023 - ADD_USER,JOSUES,1234,1234,1234
+Mon May  8 18:15:23 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 18:17:58 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:17:58 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:32:37 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:32:37 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:33:01 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:33:01 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:33:21 2023 - ADD_USER,JOSUE SALAZAR,ABCD1234,22623337,115650162
+Mon May  8 18:33:21 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 18:35:05 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:35:05 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:35:26 2023 - LOGIN_USER,JOSUE SALAZAR,ABCD1234
+Mon May  8 18:35:26 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 18:36:09 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:36:09 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:57:11 2023 - Server is running: 0.0.0.0:6336
+Mon May  8 18:57:11 2023 - Listening connection: 0.0.0.0:6336
+Mon May  8 18:57:29 2023 - LOGIN_USER,JOSUE SALAZAR,ABCD1234\
+Mon May  8 18:57:29 2023 - Listening connection: 127.0.0.1:6336
+Mon May  8 18:57:53 2023 - LOGIN_USER,JOSUE SALAZAR,ABCD1234
+Mon May  8 18:57:53 2023 - Listening connection: 127.0.0.1:6336
+Sat May 13 09:07:33 2023 - Server is running: 0.0.0.0:6336
+Sat May 13 09:07:33 2023 - Listening connection: 0.0.0.0:6336
+Sat May 13 09:08:05 2023 - ADD_USER,PEDRO,12345...,226233354,12143
+Sat May 13 09:08:05 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 18:46:32 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 18:46:32 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 18:49:00 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 18:49:00 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 18:57:07 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 18:57:07 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 20:19:28 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 20:19:28 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 20:19:56 2023 - ADD_USER,Josue,123abc,22623337,1
+Wed May 17 20:19:56 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:20:08 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:20:08 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:22:16 2023 - LOGIN_USER,AS,232
+Wed May 17 20:22:16 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:22:48 2023 - LOGIN_USER,656,565
+Wed May 17 20:22:48 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:26:55 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:26:55 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:37:09 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:37:09 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:39:08 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:39:08 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:43:08 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:43:08 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:43:27 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:43:27 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:47:48 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:47:48 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:51:01 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 20:51:01 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 20:51:18 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:51:18 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:51:58 2023 - ADD_USER,Josue,123abc,22623337,121`2123
+Wed May 17 20:51:58 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:52:01 2023 - LOGIN_USER,sqdas,sadsad
+Wed May 17 20:52:01 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:52:09 2023 - ADD_USER,sda,sad,ad,asd
+Wed May 17 20:52:09 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:52:15 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:52:15 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:53:27 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:53:27 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:54:45 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:54:45 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 20:55:53 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 20:55:53 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:02:42 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:02:42 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:03:06 2023 - LOGIN_USER,sd,asad
+Wed May 17 21:03:06 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:07:59 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:07:59 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:08:03 2023 - LOGout_USER,Josue
+Wed May 17 21:08:03 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:11:50 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:11:50 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:13:11 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:13:11 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:14:59 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:14:59 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:21:43 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:21:43 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:27:44 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:27:44 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:27:47 2023 - LOGout_USER,Josue
+Wed May 17 21:27:47 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:28:14 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 21:28:14 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 21:28:15 2023 - LOGout_USER,Josue
+Wed May 17 21:28:15 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 22:01:17 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 22:01:17 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 22:08:16 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 22:08:16 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 22:08:57 2023 - Server is running: 0.0.0.0:6336
+Wed May 17 22:08:57 2023 - Listening connection: 0.0.0.0:6336
+Wed May 17 22:09:21 2023 - ADD_USER,Josue,123abc,226y23338,21312
+Wed May 17 22:09:21 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 22:09:30 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 22:09:30 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 22:10:41 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 22:10:41 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:39:38 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:39:38 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:39:52 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:39:53 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:42:26 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:42:26 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:43:05 2023 - LOGIN_USER,Josue,123123
+Wed May 17 23:43:05 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:43:23 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:43:23 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:44:44 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:44:44 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:45:49 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:45:49 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:46:28 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:46:28 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:49:44 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:49:44 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:52:23 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:52:23 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:53:40 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:53:40 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:54:34 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:54:34 2023 - Listening connection: 127.0.0.1:6336
+Wed May 17 23:56:42 2023 - LOGIN_USER,Josue,123abc
+Wed May 17 23:56:42 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:05:58 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:05:58 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:06:50 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:06:50 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:19:55 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:19:55 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:37:17 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:37:17 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:40:23 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:40:23 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:50:24 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:50:24 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:53:21 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:53:21 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:56:13 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:56:13 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:56:57 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:56:57 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 00:58:20 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 00:58:20 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 01:00:05 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 01:00:05 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 01:01:06 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 01:01:06 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 01:02:45 2023 - LOGout_USER,Josue
+Thu May 18 01:02:45 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 01:08:51 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 01:08:51 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 01:12:06 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 01:12:06 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:12:24 2023 - Server is running: 0.0.0.0:6336
+Thu May 18 08:12:24 2023 - Listening connection: 0.0.0.0:6336
+Thu May 18 08:12:42 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 08:12:42 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:14:32 2023 - LOGout_USER,Josue
+Thu May 18 08:14:32 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:14:46 2023 - ADD_USER,Jose,123abc,226277,2312
+Thu May 18 08:14:46 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:14:51 2023 - LOGIN_USER,Jose,123abc
+Thu May 18 08:14:51 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:26:54 2023 - Server is running: 0.0.0.0:6336
+Thu May 18 08:26:54 2023 - Listening connection: 0.0.0.0:6336
+Thu May 18 08:27:06 2023 - LOGout_USER,Jose
+Thu May 18 08:27:06 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:27:24 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 08:27:24 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:27:33 2023 - LOGout_USER,Josue
+Thu May 18 08:27:33 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:28:57 2023 - Server is running: 0.0.0.0:6336
+Thu May 18 08:28:57 2023 - Listening connection: 0.0.0.0:6336
+Thu May 18 08:29:07 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 08:29:08 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 08:29:15 2023 - LOGOUT_USER,Josue
+Thu May 18 08:29:15 2023 - Listening connection: 127.0.0.1:6336
+Thu May 18 22:26:56 2023 - Server is running: 0.0.0.0:6336
+Thu May 18 22:26:56 2023 - Listening connection: 0.0.0.0:6336
+Thu May 18 22:27:05 2023 - LOGIN_USER,Josue,123abc
+Thu May 18 22:27:05 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 15:52:12 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 15:52:12 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 15:52:24 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 15:52:24 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 15:52:44 2023 - LOG_EVENT,Josue,Agregar Orden 666 - casa - 12231 - 12231
+Fri May 19 15:52:44 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:01:13 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 16:01:13 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 16:01:20 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:01:20 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:01:37 2023 - LOGIN_USER,Josue123,
+Fri May 19 16:01:37 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:01:43 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:01:43 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:02:26 2023 - LOG_EVENT,Josue,Agregar Orden 123123 - hotel - 1500000 - 1500000
+Fri May 19 16:02:26 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:02:47 2023 - LOGOUT_USER,Josue
+Fri May 19 16:02:47 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:17:35 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 16:17:35 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 16:17:44 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:17:44 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:18:18 2023 - LOG_EVENT,Josue,Agregar Orden 4567 - Ferrari F1 - 450000 - 450000
+Fri May 19 16:18:18 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:18:27 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:18:27 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:18:39 2023 - LOG_EVENT,Josue, Se mostraron los detalles de la orden 4567
+Fri May 19 16:18:39 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:19:08 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:19:08 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:19:13 2023 - LOG_EVENT,Josue, Se mostraron los detalles de la orden 4567
+Fri May 19 16:19:13 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:19:48 2023 - LOG_EVENT,Josue, Se mostraron los detalles de la orden 4567
+Fri May 19 16:19:48 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:20:02 2023 - LOG_EVENT,Josue, Se elimino la orden 4567
+Fri May 19 16:20:02 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:20:06 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:20:06 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:20:35 2023 - LOGOUT_USER,Josue
+Fri May 19 16:20:35 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:21:50 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:21:50 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:21:58 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:21:58 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:22:05 2023 - LOG_EVENT,Josue, Se mostraron los detalles de la orden 666
+Fri May 19 16:22:05 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:23:03 2023 - LOGIN_USER,,
+Fri May 19 16:23:03 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:23:27 2023 - ADD_USER,Roberto,asdf,1342412,3123123
+Fri May 19 16:23:27 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:23:34 2023 - LOGIN_USER,Roberto,asdf
+Fri May 19 16:23:34 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:23:44 2023 - LOG_EVENT,Roberto, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:23:44 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:31:03 2023 - LOGIN_USER,Roberto,asdf
+Fri May 19 16:31:03 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:32:15 2023 - LOGIN_USER,Roberto,asdf
+Fri May 19 16:32:15 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:32:18 2023 - LOG_EVENT,Roberto, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:32:18 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:33:06 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:33:06 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:33:22 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:33:22 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:33:26 2023 - LOG_EVENT,Roberto, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:33:26 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:56:01 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 16:56:01 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:56:06 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:56:06 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:56:15 2023 - LOG_EVENT,Josue, Se elimino la orden 343
+Fri May 19 16:56:15 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 16:56:23 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 16:56:23 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:00:59 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 17:00:59 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:11:32 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 17:11:32 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:11:35 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:11:35 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:11:37 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:11:37 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:11:45 2023 - LOG_EVENT,Josue, Se elimino la orden 666
+Fri May 19 17:11:45 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:11:47 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:11:47 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:12:06 2023 - LOG_EVENT,Josue,Agregar Orden 888 - mansion - 450000 - 450000
+Fri May 19 17:12:06 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:12:11 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:12:11 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:12:15 2023 - LOG_EVENT,Josue, Se mostraron los detalles de la orden 888
+Fri May 19 17:12:15 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:15:08 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 17:15:08 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:15:11 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:15:11 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:15:12 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 17:15:12 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:15:19 2023 - LOG_EVENT,Josue, Se elimino la orden 888
+Fri May 19 17:15:19 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:15:32 2023 - LOG_EVENT,Josue,Agregar Orden 45 - bote - 45900 - 45900
+Fri May 19 17:15:32 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:22:43 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 17:22:43 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 17:29:32 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 17:29:32 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 17:30:48 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 17:30:48 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 17:47:26 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 17:47:26 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 17:51:15 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 17:51:15 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 17:52:57 2023 - LOGIN_USER,Jose,123abc
+Fri May 19 17:52:57 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:53:14 2023 - LOG_EVENT,Jose,Agregar Orden 7895 - celular - $350 - $350
+Fri May 19 17:53:14 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 17:53:18 2023 - LOGOUT_USER,Jose
+Fri May 19 17:53:18 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 18:40:20 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 18:40:20 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 19:12:26 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 19:12:26 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 19:13:25 2023 - LOGOUT_USER,Josue
+Fri May 19 19:13:25 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 19:13:30 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 19:13:30 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 19:31:13 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 19:31:13 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 19:44:08 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 19:44:08 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 19:44:20 2023 - SocketStatusLog.txt Could not bind to port.
+Exiting.
+
+Fri May 19 19:44:25 2023 - SocketStatusLog.txt Could not bind to port.
+Exiting.
+
+Fri May 19 20:19:31 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 20:19:31 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 20:31:22 2023 - Server is running: 0.0.0.0:6336
+Fri May 19 20:31:22 2023 - Listening connection: 0.0.0.0:6336
+Fri May 19 20:31:59 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 20:31:59 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 20:32:12 2023 - LOG_EVENT,Josue, Se mostraron los IDs de todas las ordenes
+Fri May 19 20:32:12 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 20:32:44 2023 - LOGOUT_USER,Josue
+Fri May 19 20:32:44 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 20:32:58 2023 - ADD_USER,Adriano,zxcv,342342,42342343
+Fri May 19 20:32:58 2023 - Listening connection: 127.0.0.1:6336
+Fri May 19 20:44:11 2023 - LOGIN_USER,Josue,123abc
+Fri May 19 20:44:11 2023 - Listening connection: 127.0.0.1:6336
